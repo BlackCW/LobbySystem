@@ -6,4 +6,5 @@ Spieler ohne der Permission "lobby.chat" können nicht schreiben. Mit den Comman
 
 # Permissions
 "lobby.chat" = Um schreiben zu können.
+
 "hider.vip" = Spieler die die Permissions haben werden bei VIPs und Teammitglieder Sichtbar sein.
